@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { PortableText } from 'next-sanity';
 import React from 'react'
-import { Button } from '@/components/ui/button';
+// import { Button } from '@/components/ui/button';
 import AddToBasketButton from '@/components/ui/AddToBasketButton';
 
 async function ProductPage({params}: {params: Promise<{slug: string}>}) {
