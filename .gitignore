@@ -39,10 +39,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-schema.json
 .env.local
-middleware.ts
-sanity\.cli\.ts
-sanity\.types\.ts
-sanity\.config\.ts
-/studio-e-commerce-build
